@@ -1,3 +1,5 @@
+[Back to game](https://cavemanhitsgiraffeinacar.github.io/)
+
 ## v.0.1.2
 > **Key Update:**  
 > Experience smoother gameplay with new animations, impactful critical hits, and a revamped leaderboard featuring customizable avatars!
