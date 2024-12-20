@@ -2,6 +2,7 @@
 ## v.0.1.3
 > **Key Update:**  
 > New Dragon enemy, dynamic spawning groups, improved visual cues.
+
 ### Gameplay:
 • Introduced a new enemy: the Dragon  
 • Exclamation marks now appear above Robots and Dragons before they shoot, providing visual cues for players.
