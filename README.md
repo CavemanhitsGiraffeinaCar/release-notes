@@ -2,6 +2,7 @@
 ## v.1.0
 > **Key Update:**  
 > Stun & Lifesteal abilities, upgrade card rework, level progression screen.
+
 ### Gameplay:
 • Added abilities:  Stun und Lifesteal.
 • Reworked upgrade Cards to feature ability upgrades.
