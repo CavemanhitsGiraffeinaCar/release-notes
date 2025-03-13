@@ -1,4 +1,20 @@
 [Back to game](https://cavemanhitsgiraffeinacar.github.io/)
+## v.1.0
+> **Key Update:**  
+> Stun & Lifesteal abilities, upgrade card rework, level progression screen.
+### Gameplay:
+• Added abilities:  Stun und Lifesteal.
+• Reworked upgrade Cards to feature ability upgrades.
+### UI:
+• Added Level Progression Screen.
+• Added new frames to leader board.
+### Bug Fixes:
+• Minor bug fixes.
+### Steam:
+• The game officially releases on the 14.02.2025 on Steam.
+
+---
+
 ## v.0.1.3
 > **Key Update:**  
 > New Dragon enemy, dynamic spawning groups, improved visual cues.
